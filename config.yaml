@@ -1,0 +1,5 @@
+db:
+  maxOpenConnections: 10
+obfuscator:
+  sliceSize: 20
+  dispersionPercent: 10
